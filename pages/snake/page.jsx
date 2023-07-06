@@ -137,6 +137,7 @@ const App = () => {
   <div className={styles.background}>
         <div className={styles.content}>
           <div className={styles.content}>
+            <h1>Snake</h1>
             {startGame && (
               <div>
                 <button className={styles["neon-btn"]} onClick={startGame}>

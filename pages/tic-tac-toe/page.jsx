@@ -20,7 +20,7 @@ const Snake = () => {
       <div className={styles.background}>
         <div className={styles.content}>
           <div className={styles.content}>
-            <h1>Tic-Tac-Toe</h1>
+            <h1>Tetris</h1>
             {startGame && (
               <div>
                 <button className={styles["neon-btn"]} onClick={() => setStartGame(!startGame)}>
