@@ -2,8 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/calculator/page": "pages/calculator/page.js",
-  "/tetris/page": "pages/tetris/page.js",
-  "/lounge/page": "pages/lounge/page.js",
-  "/tic-tac-toe/page": "pages/tic-tac-toe/page.js"
+  "/snake/page": "pages/snake/page.js",
+  "/lounge/page": "pages/lounge/page.js"
 }
